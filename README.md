@@ -58,14 +58,7 @@ cd Flask-MySQL-Docker-Project
 
 ```bash
 docker compose up --build
-```
 
-## 🌐 Access Application
-
-Open your browser and visit:
-
-```text
-http://localhost:5000
 ```
 
 ## 🎯 Learning Outcomes
